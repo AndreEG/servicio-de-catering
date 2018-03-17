@@ -49,26 +49,36 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 * [Catering en el Perú](https://gestion.pe/tendencias/90-quienes-brindan-servicios-catering-son-personas-naturales-56461)
 
 ## BUSINESS CANVAS MODEL:
-![image]()
+![image](assets/images/bcm.jpg)
 
 ## KICK OFF:     
-**Preguntas a los encargados**
+**Preguntas a stakeholders**
 
+* ¿Qué tipo de servicio tiene mayor venta o aceptación en el público?
+* ¿Qué sería lo que se debe resaltar más?
+* ¿Cuál es el servicio que menos consumen?
+* ¿Cuál es el % de clientes nuevos el último año?
+* ¿Cuál es el % de clientes perdidos el último año?
+* ¿Cuáles son las cosas que el cliente desearía cambiar en el servicio?
+* ¿Cuáles son los adicionales más solicitados?
+* ¿Cuál es el mayor problema a la hora de atender un pedido?
 
 ## PROCESO UX
 ### INVESTIGACIÓN
 **ENTREVISTAS**
-1. Entrevista a Usuarios**
-![guia de entrevista](assets/images/otros-01.png)     
-  * [Respuesta de Entrevistas ](https://goo.gl/tDMYBB)
-2. Entrevista a Stakeholders**
-  * [Respuesta de Stakeholders](https://goo.gl/Mmeivr)
+1. Entrevista a Usuarios
+![guia de entrevista](assets/images/guia-usuarios.png)     
+  * [Respuesta de Entrevistas ]()
+2. Entrevista a Stakeholders
+  * [Respuesta de Stakeholders](https://drive.google.com/open?id=1nmbYCwqGCXXpzw9A_bMAlkXIah-siT2n)
 ### BENCHMARK
+
 ![benchmarking]()
 
 ### SÍNTESIS
 
 **USER PERSONA**
+
 ![user persona]()
 
 **PROBLEM STATEMENT**
@@ -83,6 +93,7 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 **FEATURE LIST**
 
 **PRIORIZACION**
+
 ![priorizacion](assets/images/banco-02.png)
 
 **MVP**      
@@ -93,10 +104,15 @@ De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro pro
 
 **PAPER PROTOTYPE** 
 * 1er PAPER PROTOTYPE 
+
 ![paper](assets/images/paperp1.png) 
+
 * 2do PAPER PROTOTYPE 
+
 ![paper](assets/images/paperp2.png) 
+
 * 3er PAPER PROTOTYPE 
+
 ![paper](assets/images/paperp3.png)            
 
 **PROTOTIPO DE ALTA FIDELIDAD** 
