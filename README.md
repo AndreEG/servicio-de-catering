@@ -66,6 +66,7 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 ## PROCESO UX
 ### INVESTIGACIÓN
 **ENTREVISTAS**
+
 1. Entrevista a Usuarios
 ![guia de entrevista](assets/images/guia-usuarios.png)     
   * [Respuesta de Entrevistas ]()
@@ -73,7 +74,7 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
   * [Respuesta de Stakeholders](https://drive.google.com/open?id=1nmbYCwqGCXXpzw9A_bMAlkXIah-siT2n)
 ### BENCHMARK
 
-![benchmarking]()
+![benchmarking](assets/images/benchmark.png)
 
 ### SÍNTESIS
 
