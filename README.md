@@ -68,10 +68,21 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 **ENTREVISTAS**
 
 1. Entrevista a Usuarios
-![guia de entrevista](assets/images/guia-usuarios.png)     
+
+![guia de entrevista](assets/images/guia-usuarios.png) 
+
   * [Respuesta de Entrevistas ]()
+
 2. Entrevista a Stakeholders
+
   * [Respuesta de Stakeholders](https://drive.google.com/open?id=1nmbYCwqGCXXpzw9A_bMAlkXIah-siT2n)
+
+3. Opiniones en Internet
+
+![Opiniones](assets/images/foros.png.png) 
+
+  * [Opiniones](https://www.matrimonio.com.pe/debates/opiniones-sobre-catering--t1500)
+
 ### BENCHMARK
 
 ![benchmarking](assets/images/benchmark.png)
