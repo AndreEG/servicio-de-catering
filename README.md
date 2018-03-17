@@ -79,7 +79,7 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 
 3. Opiniones en Internet
 
-![Opiniones](assets/images/foros.png.png) 
+![Opiniones](assets/images/foros.png) 
 
   * [Opiniones](https://www.matrimonio.com.pe/debates/opiniones-sobre-catering--t1500)
 
