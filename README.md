@@ -1,5 +1,5 @@
   
-![titulo](assets/images/banco-03.png)   
+![titulo](assets/images/titulo.png)   
 # INFORMACIÓN DE NEGOCIO
 ## RETO:
 
@@ -89,46 +89,57 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 
 ### SÍNTESIS
 
-**USER PERSONA**
+**USER PERSONA PRIMARY**
 
-![user persona]()
+![user persona](assets/images/userprimary.png)
+
+**USER PERSONA SECONDARY**
+
+![user persona](assets/images/usersecondary.png)
 
 **PROBLEM STATEMENT**
 
+* Esther necesita cotizaciones rápidas para tener un presupuesto claro en sus eventos.
+* Esther necesita servicio para menos de 100 personas porque muchas veces organiza reuniones con menos cantidad de gente.
+* Esther necesita elegir los platos o bocaditos que brindara a sus invitados para sentir que todo está perfecto.
+* Esther necesita servicios para empresas y eventos para encontrar soluciones en un solo lugar
+
 **HMW**
 
+* HMW para que las cotizaciones no tarden.
+* HMW para que se ofrezcan servicios para cualquier cantidad de personas.
+* HMW para que los platos puedan ser electivos.
+* HMW para ofrecer servicios de todo tipo.
+
 **WHAT IF**
+
+* What if las cotizaciones siempre fueran rápidas.
+* What if los servicios siempre estuvieran disponibles.
+* What if no tuvieramos que elegir.
+* What if solo existieran los eventos sociales
 
 **JOURNEY MAPS**    
 
 ### IDEACIÓN
 **FEATURE LIST**
 
+* Opción para eventos, buffets y corporativos.
+* Una opción adicional para armar tu paquete, que está dirigida a todas aquellas personas que necesiten paquetes simples y para menos personas.
+* Un botón para recibir cotización de forma instantánea.
+* Detalle de que tiene incluido cada paquete.
+
 **PRIORIZACION**
 
-![priorizacion](assets/images/banco-02.png)
+![priorizacion](assets/images/priorizacion.png)   
 
-**MVP**      
-De acuerdo a la investigación realizada y con las ideas propuestas. Nuestro producto será un "Sitio Web" y dentro de su contenido tendrá lo siguiente:    
-*    
-
-### PROTOTIPADO  
-
-**PAPER PROTOTYPE** 
-* 1er PAPER PROTOTYPE 
-
-![paper](assets/images/paperp1.png) 
-
-* 2do PAPER PROTOTYPE 
-
-![paper](assets/images/paperp2.png) 
-
-* 3er PAPER PROTOTYPE 
-
-![paper](assets/images/paperp3.png)            
+### PROTOTIPADO        
 
 **PROTOTIPO DE ALTA FIDELIDAD** 
 
-Enlace a [BankEva](https://marvelapp.com/c4i70ce)   
+![prototipo nosotros](assets/images/nosotros.png)
+![prototipo celebraciones](assets/images/celebraciones.png)
+![prototipo buffets](assets/images/buffets.png)
+![prototipo corporativos](assets/images/corporativos.png)
+![prototipo arma tu paquete](assets/images/arma.png)
 
 ### TESTING 
