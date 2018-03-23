@@ -136,10 +136,13 @@ Se ofrece café, té, jugos y bocaditos salados y dulces. Dura entre 15 y 30 min
 
 **PROTOTIPO DE ALTA FIDELIDAD** 
 
-![prototipo nosotros](assets/images/nosotros.png)
-![prototipo celebraciones](assets/images/celebraciones.png)
-![prototipo buffets](assets/images/buffets.png)
-![prototipo corporativos](assets/images/corporativos.png)
-![prototipo arma tu paquete](assets/images/arma.png)
+![prototipo nosotros](https://user-images.githubusercontent.com/32310867/37811550-013148f8-2e29-11e8-8950-520b18406cf9.png)
+
+![prototipo celebraciones](https://user-images.githubusercontent.com/32310867/37811563-1c5b7a54-2e29-11e8-87d5-b205204f7586.png)
+
+![prototipo buffets](https://user-images.githubusercontent.com/32310867/37811590-3594c656-2e29-11e8-8f57-eb38e6b7eb9e.png)
+
+![prototipo corporativos](https://user-images.githubusercontent.com/32310867/37811607-4c62345e-2e29-11e8-8a72-55912898fa0d.png)
+
 
 ### TESTING 
